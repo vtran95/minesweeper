@@ -5,6 +5,8 @@
 3) Render (display game board)
 4) Start a timer keeping track of duration of game
 5) When user clicks:
+    - check win:
+        - if last *__not__* bomb cell -> win
     - if *__not__* bomb *__and__* no bombs around:
         - clear box and other empty boxes in contact with no numbers and bombs, also reveal numbers in contact with empty boxes
     - if *__not__* bomb *__and__* bombs around:
