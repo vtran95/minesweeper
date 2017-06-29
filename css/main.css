@@ -1,0 +1,23 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+td {
+    background-color: #3fe3c0;
+    border: 1px solid black;
+    border-radius: 5px;
+    /*padding: 25px;*/
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 28px;
+    height: 28px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+img {
+    display: inline-block;
+}
