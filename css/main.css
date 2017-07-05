@@ -1,7 +1,17 @@
 body {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
-    background-color: #fdffc6;
+    /*background-color: #fdffc6;*/
+    background-image: url('../images/poop_yellowbg.png');
+}
+
+.wrapper {
+    margin: 0 auto;
+    background-color: rgba(253,255,198,0.9);
+    border-radius: 30px;
+    width: 50%;
+    height: 400px;
+    padding-top: 10px;
 }
 
 h1 {

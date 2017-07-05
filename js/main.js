@@ -3,7 +3,7 @@ $(function(){
 
 
 
-var bombs = 6;
+var bombs = 8;
 var mapSize = 8;
 var totalCells = Math.pow(mapSize, 2);
 var counter = 0;
@@ -76,8 +76,6 @@ function initializeBoard() {
         safeLoc[i] = i;
     }
 
-    console.log('total cells: ' + safeLoc);
-
     for (var j = 0; j < bombLoc.length; j++) {
         safeLoc.splice((bombLoc[j]-j),1);
     }
@@ -125,9 +123,11 @@ function checkWin() {
 function gameOver(result) {
     if (result === 'lose') {
         $message.html('poop...');
+        $message.css('right', '47.2%');
     }
     else if (result === 'win') {
-        $message.html('YOU WIN');
+        $message.html('Clean sweep!');
+        $message.css('right', '45%');
     }
     for ( var i = 0; i < bombLoc.length; i++) {
         var row = findRow(bombLoc[i]);
