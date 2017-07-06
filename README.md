@@ -1,43 +1,36 @@
 # Minesweeper
 
 ## Description
-The player's goal is to click on the cells while avoiding the hidden mines.
+<p>The player's goal is to click on the cells while avoiding the hidden mines.</p>
 
-![Start board][startBoard]
-
-[startBoard]: https://i.imgur.com/3fFhT9i.png
+<img src='https://i.imgur.com/3fFhT9i.png' width='350px' height='400px'>
 
 
-Clicking a cell will reveal either an empty cell, a number indicating the number of mines surrounding that cell, or a mine. The player may right-click a cell to flag it, and indicate that cell as a mine.
+<p><br></br>Clicking a cell will reveal either an empty cell, a number indicating the number of mines surrounding that cell, or a mine. The player may right-click a cell to flag it, and indicate that cell as a mine.</p>
 
-![Game in play][gameInPlay]
-
-[gameInPlay]: https://i.imgur.com/njzfKya.png
+<img src='https://i.imgur.com/njzfKya.png' width='350px' height='400px'>
 
 
-Clicking a mine, or if the timer reaches 500 seconds, will result in the player's loss, revealing all the hidden mines, and ending the game.
+<p><br></br>Clicking a mine, or if the timer reaches 500 seconds, will result in the player's loss, revealing all the hidden mines, and ending the game.</p>
 
-![Uh oh you clicked on a mine!][gameLoss]
-
-[gameLoss]: https://i.imgur.com/lU1wSLO.png
+<img src='https://i.imgur.com/lU1wSLO.png' width='350px' height='400px'>
 
 
-If the player manages to click on all the cells that are not mines, then the player wins the game, and the mines will be revealed. The player may reset the game to play again.
+<p><br></br>If the player manages to click on all the cells that are not mines, then the player wins the game, and the mines will be revealed. The player may reset the game to play again.</p>
 
-![Yay you win][gameWin]
-
-[gameWin]: https://i.imgur.com/fPXTtFX.png
+<img src='https://i.imgur.com/fPXTtFX.png' width='350px' height='400px'>
 
 ## Technologies Used
 
 - HTML
 - CSS
 - Javascript
+- jQuery
 
 
 ## Getting Started
 
-Here is a link to the [game!](#)
+Here is a link to the [Minesweeper](https://vtran95.github.io/minesweeper/) game!
 
 
 ## Next Steps
