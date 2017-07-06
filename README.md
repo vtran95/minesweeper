@@ -9,20 +9,20 @@
 
 <p>If the player manages to click on all the cells that are not mines, then the player wins the game, and the mines will be revealed. The player may reset the game to play again.</p>
 
-<div class="" style="display:inline-block;">
-    <img src='https://i.imgur.com/3fFhT9i.png' width='330px' height='380px'>
+<div class="" style="display:inline-block; width:45%">
+    <img src='https://i.imgur.com/3fFhT9i.png' width='300px' height='370px'>
 </div>
 
-<div class="" style="display:inline-block;">
-    <img src='https://i.imgur.com/njzfKya.png' width='330px' height='380px'>
+<div class="" style="display:inline-block;width:45%">
+    <img src='https://i.imgur.com/njzfKya.png' width='300px' height='370px'>
 </div>
 
-<div class="" style="display:inline-block;">
-    <img src='https://i.imgur.com/lU1wSLO.png' width='330px' height='380px'>
+<div class="" style="display:inline-block;width:45%">
+    <img src='https://i.imgur.com/lU1wSLO.png' width='300px' height='370px'>
 </div>
 
-<div class="" style="display:inline-block;">
-    <img src='https://i.imgur.com/fPXTtFX.png' width='330px' height='380px'>
+<div class="" style="display:inline-block;width:45%">
+    <img src='https://i.imgur.com/fPXTtFX.png' width='300px' height='370px'>
 </div>
 
 ## Technologies Used
