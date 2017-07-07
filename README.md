@@ -11,21 +11,10 @@
 
 <!--![](https://i.imgur.com/3fFhT9i.png) ![](https://i.imgur.com/njzfKya.png)
 ![](https://i.imgur.com/lU1wSLO.png) ![](https://i.imgur.com/fPXTtFX.png)-->
-<div class="" style="display:inline-block;width:45%;">
-    <img src='https://i.imgur.com/3fFhT9i.png' width='300px' height='370px'>
-</div>
 
-<div class="" style="display:inline-block;width:45%;">
-    <img src='https://i.imgur.com/njzfKya.png' width='300px' height='370px'>
-</div>
+<img src='https://i.imgur.com/3fFhT9i.png' width='300px' height='370px'> <img src='https://i.imgur.com/njzfKya.png' width='300px' height='370px'>
 
-<div class="" style="display:inline-block;width:45%;">
-    <img src='https://i.imgur.com/lU1wSLO.png' width='300px' height='370px'>
-</div>
-
-<div class="" style="display:inline-block;width:45%;">
-    <img src='https://i.imgur.com/fPXTtFX.png' width='300px' height='370px'>
-</div>
+<img src='https://i.imgur.com/lU1wSLO.png' width='300px' height='370px'> <img src='https://i.imgur.com/fPXTtFX.png' width='300px' height='370px'>
 
 ## Technologies Used
 
